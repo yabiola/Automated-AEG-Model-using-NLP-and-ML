@@ -9,6 +9,7 @@ in automating essay grading. Notably, both the Random Forest and Long Short-Term
 (LSTM) algorithms stand out as front runners, demonstrating remarkable agreement with
 human graders. They both achieved an impressive Quadratic Weighted Kappa score of 0.97,
 echoing human-grade assessments, although there are distinctions in their MAE performance.
+
 Furthermore, the investigation into grade normalization techniques uncovers their intricate
 interplay with model performance and human grading standards. These discoveries offer
 invaluable insights to educators and researchers, enabling them to refine automated grading
